@@ -1,59 +1,43 @@
-﻿  Drawing.cpp
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Settings.h(9,1): warning C4002: too many arguments for function-like macro invocation 'D3DCOLOR_RGBA'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(7,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(33,1): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(14,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(14,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(15,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(15,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(17,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(77,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(78,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(81,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(82,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(85,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(86,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(89,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Drawing.cpp(90,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  dllmain.cpp
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Settings.h(9,1): warning C4002: too many arguments for function-like macro invocation 'D3DCOLOR_RGBA'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(7,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\Vector.h(33,1): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(281,51): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(281,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(281,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(281,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(310,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(327,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(326,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(325,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(324,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(338,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(337,95): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(348,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(347,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(346,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(359,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(358,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(357,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(372,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(371,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(370,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(390,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(389,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(388,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(387,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(400,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(399,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(398,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(423,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(422,99): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(433,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(432,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Strayfaded\dllmain.cpp(431,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Generating Code...
+﻿  dllmain.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Settings.h(9,1): warning C4002: too many arguments for function-like macro invocation 'D3DCOLOR_RGBA'
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Vector.h(7,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Vector.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Vector.h(33,1): warning C4305: '=': truncation from 'double' to 'float'
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(280,51): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(280,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(280,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(280,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(309,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(326,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(325,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(324,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(323,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(337,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(336,95): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(347,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(346,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(345,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(358,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(357,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(356,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(371,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(370,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(369,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(389,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(388,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(387,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(386,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(399,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(398,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(397,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(409,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(408,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(407,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(422,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(421,99): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(432,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(431,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(430,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
 DirectX.obj : warning LNK4006: "void __cdecl SetupStyles(void)" (?SetupStyles@@YAXXZ) already defined in Bhop.obj; second definition ignored
 DirectX.obj : warning LNK4006: "void __cdecl ShowWatermark(bool *,char const *,struct ImVec4)" (?ShowWatermark@@YAXPA_NPBDUImVec4@@@Z) already defined in Bhop.obj; second definition ignored
@@ -115,5 +99,5 @@ WorldToScreen.obj : warning LNK4006: "void __cdecl ShowWatermark(bool *,char con
 WorldToScreen.obj : warning LNK4006: "unsigned long Global_GameModule" (?Global_GameModule@@3KA) already defined in Bhop.obj; second definition ignored
 WorldToScreen.obj : warning LNK4006: "unsigned long Global_EngineModule" (?Global_EngineModule@@3KA) already defined in Bhop.obj; second definition ignored
 WorldToScreen.obj : warning LNK4006: "class USettings Settings" (?Settings@@3VUSettings@@A) already defined in Bhop.obj; second definition ignored
-C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Debug\DLL.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
-  Strayfaded.vcxproj -> C:\Users\andre\Documents\Cheat\Repos\CSGO\CSGO-Base-main\Debug\DLL.dll
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Debug\DLL.dll : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Strayfaded.vcxproj -> Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Debug\DLL.dll

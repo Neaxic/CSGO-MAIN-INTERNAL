@@ -1,0 +1,46 @@
+﻿  Bhop.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Bhop.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  DirectX.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\DirectX.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  dllmain.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\dllmain.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Drawing.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Drawing.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Engine.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Engine.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Entity.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Entity.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  FOV.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\FOV.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  GlowThread.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\GlowThread.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Hook.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Hook.cpp(2,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  imgui.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui.cpp(2022,1): warning C4005: 'va_copy': macro redefinition
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui.cpp(2020): message : see previous definition of 'va_copy'
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui.cpp(10109,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  imgui_demo.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_demo.cpp(104,1): warning C4005: 'IM_NEWLINE': macro redefinition
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_demo.cpp(102): message : see previous definition of 'IM_NEWLINE'
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_demo.cpp(4845,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  imgui_draw.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_draw.cpp(126,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_draw.cpp(149,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_draw.cpp(3406,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  imgui_impl_dx9.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_impl_dx9.cpp(285,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  imgui_impl_win32.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_impl_win32.cpp(326,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  imgui_widgets.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\imgui\imgui_widgets.cpp(7631,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  Localplayer.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Localplayer.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Offsets.h
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Offsets.h(151,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "include.h"' to your source?
+  ThirdPerson.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\ThirdPerson.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  Triggerbot.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\Triggerbot.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory
+  WorldToScreen.cpp
+Z:\Cheat\Repos\CSGO\CSGO-MAIN-INTERNAL\Strayfaded\WorldToScreen.cpp(1,10): fatal error C1083: Cannot open precompiled header file: 'Release\DLL.pch': No such file or directory

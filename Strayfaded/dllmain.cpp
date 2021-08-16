@@ -121,15 +121,15 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
 
             ImGui::BeginChild("Tracer", ImVec2(350, 350));
             ImGui::Text("Tracer Settings");
-            ImGui::Checkbox("Enable Tracers", &Settings.EnableTrace);
-            ImGui::Checkbox("Enable Glow", &Settings.EnableGlow);
-            ImGui::Checkbox("Enable CornorESP", &Settings.EnableConoredESP);
+            ImGui::Checkbox2("Enable Tracers", &Settings.EnableTrace);
+            ImGui::Checkbox2("Enable Glow", &Settings.EnableGlow);
+            ImGui::Checkbox2("Enable CornorESP", &Settings.EnableConoredESP);
             if (Settings.EnableConoredESP) {
                 ImGui::SliderFloat("Coverage", &Settings.CorneredCoverage, 0.00f, 1.00f);
             }
             if (Settings.EnableTrace) {
-                ImGui::Checkbox("Enable Team Tracers", &Settings.TraceTemmates);
-                ImGui::Checkbox("Enable CustomTacerBone", &Settings.EnableCustomTracerBone);
+                ImGui::Checkbox2("Enable Team Tracers", &Settings.TraceTemmates);
+                ImGui::Checkbox2("Enable CustomTacerBone", &Settings.EnableCustomTracerBone);
 
                 ImGui::SliderInt("Thickness", &Settings.TracerThickness, 1, 10);
                 if (Settings.EnableCustomTracerBone) {
@@ -274,7 +274,6 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
 
     windowWidth = GetSystemMetrics(SM_CXSCREEN);
     windowHeight = GetSystemMetrics(SM_CYSCREEN);
-
     
     if (Settings.EnableTrace || Settings.EnableBoundingBoxes) {
         if (PlayerController.Exsists()) {
@@ -353,7 +352,7 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
                                     );
 
                                    
-                                    /*DrawHealthBar(
+                                    DrawHealthBar(
                                         Base.x,
                                         Base.y,
                                         Height * Settings.BoundingBoxesWidth,
@@ -362,7 +361,7 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
                                         Settings.Global_Antialias,
                                         EntityHealth,
                                         EntityArmor
-                                    );*/
+                                    );
                                 }
 
                                 if (Settings.EnableConoredESP) {
@@ -404,7 +403,7 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
                                             BoxColor
                                         );
 
-                                        /*DrawHealthBar(
+                                        DrawHealthBar(
                                             Base.x,
                                             Base.y,
                                             Height * Settings.BoundingBoxesWidth,
@@ -413,7 +412,7 @@ void APIENTRY hkEndScene(LPDIRECT3DDEVICE9 o_pDevice)
                                             Settings.Global_Antialias,
                                             EntityHealth,
                                             EntityArmor
-                                        );*/
+                                        );
                                     }
 
                                     if (Settings.EnablePlayerInfo) {
