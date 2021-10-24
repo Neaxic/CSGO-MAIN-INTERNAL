@@ -1,5 +1,4 @@
 # CSGO-Base
-(SCREENSHOTS BELOW)
 Some pretty boring cheat i made, its a bit old, and based on top of strayfade's base - not very solid.
 The repo can give you a decent understanding of how cheats are written, and can also be used to extend the cheats more.
 
