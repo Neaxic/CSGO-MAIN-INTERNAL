@@ -7,7 +7,7 @@ The repo can give you a decent understanding of how cheats are written, and can 
 
 # Usage
 To use, update offsets to the most recent csgo update, (probs from Hazedumper), compile it and at last inject the dll.
-Loadlib is not recommended, manualmapping injection is the way to go.
+Loadlib is not recommended, manualmapping injection is the way to go..
 
 Base inject/uninject cheat for CSGO..
 
